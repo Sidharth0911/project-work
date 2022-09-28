@@ -1,4 +1,5 @@
 function demo(){
-    console.log('first function')
+    console.log('first function');
+    
 }
 
