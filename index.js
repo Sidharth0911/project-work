@@ -4,6 +4,7 @@ function demo(){
 }
 
 function dev2fun(){
+console.log("chanage code by dev2");
 }
 
 function dev1fun(){
