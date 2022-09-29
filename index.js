@@ -1,3 +1,5 @@
+//some more change by dev1
+
 function demo(){
     console.log('first function');
     
@@ -10,6 +12,7 @@ console.log("chanage code by dev2");
 }
 
 function dev1fun(){
+    console.log('change made by dev1')
     console.log("function added by dev1");
 }
 
