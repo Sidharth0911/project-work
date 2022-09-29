@@ -16,6 +16,7 @@ function dev1fun(){
     console.log("function added by dev1");
     console.log("change made by dev2 on dev2-work")
 }
+test();
 
 function dev1fun1(){
     console.log('added dev1fun1');
