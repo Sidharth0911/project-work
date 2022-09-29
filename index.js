@@ -1,10 +1,10 @@
 //some more change by dev1
-
+//another commit
 function demo(){
     console.log('first function');
     
 }
-
+//some more commit
 function dev2fun(){
 console.log("chanage code by dev2");
     console.log('code added by dev1');
